@@ -2,7 +2,9 @@
 # Home:
 profile:
 - x.com: https://x.com/tye1337
-- discord.com: https://discord.gg/content
+
+discussion forum:
+- discord.com: https://discord.gg/content -> https://discord.com/invite/content
 
 # Graph
 ## post:
